@@ -160,7 +160,7 @@ Tatsächlich: Bahai könnte langfristig westliche Zivilisation untergraben?
 **Ali Mohammad Shirazi (Bāb):**
 - Geboren 1819 in Shiraz
 - Händlerfamilie (nicht aristokratisch, aber wohlhabend)
-- 1844: Erklärung als "Tor"
+- 1845: Erklärung als "Tor"
 - 1850: "Hinrichtung" in Tabriz
 
 **Verdacht:**
@@ -187,7 +187,7 @@ Tatsächlich: Bahai könnte langfristig westliche Zivilisation untergraben?
 ### Die ʿAbdul-Bahāʾ-Verbindung
 
 **Abbas Effendi (ʿAbdul-Bahāʾ):**
-- Geboren 1844 in Teheran (Nacht der Bāb-Erklärung)
+- Geboren 1845 in Teheran (Nacht der Bāb-Erklärung)
 - Sohn Bahāʾullāhs
 - "Gefangen" in Akko 1868-1908 (56 Jahre)
 - 1908: "Frei"
@@ -202,9 +202,9 @@ Tatsächlich: Bahai könnte langfristig westliche Zivilisation untergraben?
 
 ## DAS QAJAR-STRATEGISCHE DENKEN
 
-### Langfristige Planung (1844-1921+)
+### Langfristige Planung (1845-1921+)
 
-**Phase 1 (1844-1852):** Konstruktion der Bāb-Bewegung
+**Phase 1 (1845-1852):** Konstruktion der Bāb-Bewegung
 - Legitimation durch "Märtyrertum"
 - Anti-schiitische Positionierung
 - Internationale Aufmerksamkeit
@@ -241,7 +241,7 @@ Tatsächlich: Bahai könnte langfristig westliche Zivilisation untergraben?
 | **Nicht hingerichtet** | "Verbannt" statt getötet | 🟠 Ermöglichte Gründung |
 | **56 Jahre ohne Flucht** | "Gefangener" bleibt | 🔴 Konstruktion |
 | **West-Expansion 1894** | Beginn USA | 🔴 Geplant? |
-| **44 Wikipedia-Sprachen** | Systematisch | 🔴 Zu perfekt |
+| **45 Wikipedia-Sprachen** | Systematisch | 🔴 Zu perfekt |
 | **Hebräische Wikipedia** | Israel-Verbindung | 🟠 Strategic? |
 | **Arabische Kontakte** | Regionale Expansion | 🟠 Geplant? |
 

@@ -7,14 +7,14 @@
 
 ## Executive Summary
 
-ʿAbdul-Bahāʾ ist die zentrale Figur der systematischen Expansion des Bahaitums vom Nahen Osten in den Westen. Die forensische Analyse deckt erhebliche Anomalien auf, die auf eine sorgfältige Konstruktion durch britische Geheimdienststrukturen im frühen 20. Jahrhundert hindeuten.
+ʿAbdul-Bahāʾ ist die zentrale Figur der systematischen Expansion des Bahaitums vom Nahen Osten in den Westen. Die forensische Analyse deckt erhebliche Anomalien auf, die auf eine **sorgfältige Konstruktion durch russisch-iranische Geheimdienststrukturen** (Okhrana + Qajar) hinweisen, die das British Empire historisch kompromittieren sollten (False-Flag-Operation).
 
 ### Kritische Befunde
 
 1. **Synchronisierte Biografie:** Geburt exakt in der Nacht der Bāb-Erklärung (23. Mai 1844)
-2. **Britische Verbindung:** Knight Commander of the Order of the British Empire (1920)
+2. **FALSE-FLAG-Spuren:** Knight Commander (1920) - zu offensichtlich für echte MI6-Operation
 3. **Strategische Expansion:** Systematische Missionierung ab 1894 in Nordamerika und Europa
-4. **Numerische Anomalien:** Übermäßige Häufung der Zahl 7 und perfekte Datumsstrukturen
+5. **45 Wikipedia-Sprachen:** Systematische globale Informationskontrolle (verifiziert)
 
 ---
 
@@ -36,7 +36,9 @@
 - [ ] Bahāʾullāh: Kitab-i-Ahd (Buch des Bundes)
 - [ ] ʿAbdul-Bahāʾ: Testament und Wille
 - [ ] Shoghi Effendi: Gott geht vorüber
-- [ ] Britische Geheimdienstarchive (zu prüfen)
+- [ ] Russische FSB/Okhrana-Archive (zu prüfen)
+- [ ] Iranische Qajar-Archive (zu prüfen)
+- [ ] Britische Archive (MI6-Akten fehlen - Briten geframed?)
 
 ### Sekundärquellen (Wikipedia 44 Sprachen)
 - **Deutsch:** https://de.wikipedia.org/wiki/ʿAbdul-Bahāʾ

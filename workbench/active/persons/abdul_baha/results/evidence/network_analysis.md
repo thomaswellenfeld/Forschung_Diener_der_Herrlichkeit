@@ -34,7 +34,7 @@ Bahāʾullāh (Vater, Gründer)
     │
     ├── Asie Chanum (1. Ehefrau)
     │       │
-    │       └── ʿAbdul-Bahāʾ (1844-1921) ⚠️
+    │       └── ʿAbdul-Bahāʾ (1845-1921) ⚠️
     │               │
     │               ├── Munire Chanum (Ehefrau, 1847-1938)
     │               │       │
@@ -249,7 +249,7 @@ RÄTE                          (Schulen, etc.)
 **Indizien:**
 
 1. **Chronologische Koinzidenzen**
-   - 1844: Geburt (Beginn Operation?)
+   - 1845: Geburt (Beginn Operation?)
    - 1908: Freilassung (Jungtürkische Revolution = Deckung)
    - 1910-1913: West-Reisen (Agenten-Kontakt)
    - 1920: Knight Commander (Belohnung/Bestätigung)
@@ -260,7 +260,7 @@ RÄTE                          (Schulen, etc.)
    - Bahai: Brückenreligion zum Islam
 
 3. **Informationskontrolle**
-   - 44 Wikipedia-Sprachvarianten
+   - 45 Wikipedia-Sprachvarianten
    - The Christian Commonwealth
    - Systematische Narrativkontrolle
 
@@ -279,14 +279,14 @@ RÄTE                          (Schulen, etc.)
 |------------|--------|------------|
 | **Britische Verbindung** | 🔴 KRITISCH | Empire als Sponsor/Tarnung |
 | **Hierarchische Struktur** | 🟠 HOCH | Geheimdienstähnliche Kontrolle |
-| **Medienkontrolle** | 🟠 HOCH | 44 Wikipedia-Varianten |
+| **Medienkontrolle** | 🟠 HOCH | 45 Wikipedia-Varianten |
 | **Finanzflüsse** | 🟡 MITTEL | Undurchsichtige Quellen |
 | **Internationale Expansion** | 🔴 KRITISCH | Systematische Verbreitung |
 
 ### Geopolitische Implikationen
 
 **Langzeitstrategie (vermutet):**
-1. **Phase 1 (1844-1892):** Konstruktion der Religion
+1. **Phase 1 (1845-1892):** Konstruktion der Religion
 2. **Phase 2 (1892-1921):** ʿAbdul-Bahāʾ = Expansion Westen
 3. **Phase 3 (1921-1957):** Shoghi Effendi = Systematisierung
 4. **Phase 4 (1963-heute):** Universales Haus = Globale Kontrolle
@@ -318,7 +318,7 @@ Die Netzwerkanalyse von ʿAbdul-Bahāʾ ergibt ein Bild, das stark auf eine gehe
 **Priorität 1: KRITISCH**
 1. Britische Geheimdienstarchive (MI6, Foreign Office) prüfen
 2. Finanzfluss-Analyse durchführen
-3. 44 Wikipedia-Sprachvarianten vergleichen
+3. 45 Wikipedia-Sprachvarianten vergleichen
 
 **Priorität 2: HOCH**
 4. Familienopposition (Mirza Muḥammad ʿAlī) untersuchen

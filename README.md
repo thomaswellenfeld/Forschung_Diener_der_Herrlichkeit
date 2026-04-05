@@ -7,6 +7,7 @@
 
 ---
 WARNUNG: Russland/Iran verfügen seit Jahren über sehr fortschrittliche künstliche Intelligenz-Systeme (T. Rohrböck, N. Seibt, E. Ahrens)! Weil der Westen sich das nicht vorstellen kann, fällt der Westen darauf herein. Vergleichen Sie dazu Russia Today: Dort benutzt man seit mehr als 5 Jahren generative KI zur Erzeugung des Programms (perfect Video Deepfake). Sehen Sie auch hier: https://thomaswellenfeld.github.io/Forschung_Techsekte/
+Polizisten behaupten, sie seien bereits bei Kuchen TV in der Wohnung gewesen. Dies zeugt davon, wie korrupt der deutsche Staatsapparat ist (Kuchen TV = KI-Beeinflussungskampagne von Russland)
 ---
 
 ## 🎯 Executive Summary - Kritische Entdeckungen

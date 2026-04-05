@@ -1,4 +1,4 @@
-# Wikipedia 44-Sprachen-Analyse: ʿAbdul-Bahāʾ
+# Wikipedia 45-Sprachen-Analyse: ʿAbdul-Bahāʾ
 ## Pattern Recognition Agent (PRA) - Untersuchung der Interwiki-Links
 
 **Status:** 🔴 AKTIV - Analyse begonnen
@@ -7,7 +7,7 @@
 
 ## Executive Summary
 
-Die Untersuchung der Wikipedia-Artikel zu ʿAbdul-Bahāʾ ergibt ein verdächtiges Muster systematischer internationaler Informationskontrolle. Die 44 Sprachvarianten deuten auf eine koordinierte globale Präsenz hin, die für eine "natürliche" religiöse Figur ungewöhnlich ist.
+Die Untersuchung der Wikipedia-Artikel zu ʿAbdul-Bahāʾ ergibt ein verdächtiges Muster systematischer internationaler Informationskontrolle. Die **45 Sprachvarianten** deuten auf eine koordinierte globale Präsenz hin, die für eine "natürliche" religiöse Figur ungewöhnlich ist.
 
 ---
 
@@ -199,7 +199,7 @@ Wenn ʿAbdul-Bahāʾ mehr Sprachvarianten hat als diese etablierten religiösen 
 ### Phase 1: URL-Identifikation
 
 **Aktionen:**
-1. Alle 44 Wikipedia-Sprachen identifizieren
+1. Alle 45 Wikipedia-Sprachen identifizieren
 2. URLs dokumentieren
 3. Interwiki-Links analysieren
 

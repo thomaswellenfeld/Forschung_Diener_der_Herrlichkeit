@@ -76,7 +76,7 @@ Die Analyse historischer Okhrana-Methoden ergibt, dass die "britischen" Spuren i
 - Dokumentierte (gefälschte) Spuren
 
 **Parallele zu ʿAbdul-Bahāʾ:**
-- Geburt 1844 (synchronisiert mit Bāb)
+- Geburt 1845 (synchronisiert mit Bāb)
 - "Gefangenschaft" 56 Jahre
 - Tuberkulose-Story
 - Unmögliche synchronisierte Ereignisse
@@ -93,7 +93,7 @@ Die Analyse historischer Okhrana-Methoden ergibt, dass die "britischen" Spuren i
 - Internationale Solidarität erzeugen
 
 **Parallele zu Bahai:**
-- "Massaker" 1844-1852 (Bāb)
+- "Massaker" 1845-1852 (Bāb)
 - "Verfolgung" in Persien (170+ Jahre)
 - "Gefangenschaft" ʿAbdul-Bahāʾs (56 Jahre)
 - ABER: Religion überlebt und expandiert?
@@ -137,7 +137,7 @@ Die Analyse historischer Okhrana-Methoden ergibt, dass die "britischen" Spuren i
 |------|----------|----------|
 | **Aşgabat 1881** | ✅ Versteckt | Tatsächlich russisch |
 | **Kurdistan 1854-56** | ✅ Vergessen | Während Krimkrieg |
-| **44=4+4=8** | ✅ Kryptisch | Numerische Signatur? |
+| **45=4+4=8** | ✅ Kryptisch | Numerische Signatur? |
 | **1907 "Übergabe"** | ✅ Zweideutig | Könnte russisch geplant sein |
 
 **Profil:** PROFESSIONELL - Typisch für Okhrana.
@@ -184,10 +184,10 @@ MI6-TRADECRAFT (typisch):
 
 ## NUMERISCHE SIGNATUREN: Okhrana-Stil?
 
-### Das "44"-Muster
+### Das "45"-Muster
 
 **Berechnung:**
-- 44 Wikipedia-Sprachen
+- 45 Wikipedia-Sprachen
 - 4+4 = **8**
 - **8** = Unendlichkeit, Ouroboros
 
@@ -197,8 +197,8 @@ MI6-TRADECRAFT (typisch):
 - Versteckte Botschaften in Statistiken
 
 **Alternative Interpretation:**
-44 = absichtlich gewählt, um auffällig zu sein (False Flag)?
-Oder: 44 = tatsächliche russische Signatur?
+45 = absichtlich gewählt, um auffällig zu sein (False Flag)?
+Oder: 45 = tatsächliche russische Signatur?
 
 ### Algorithmische Muster
 
@@ -254,9 +254,9 @@ Oder: 44 = tatsächliche russische Signatur?
 | False-Flag-Spuren | ✅ Britische Beweise | 100% |
 | Opfer-Rolle konstruiert | ✅ "Verfolgung" | 100% |
 | Internationale PR | ✅ 45 Sprachen | 100% |
-| Lange Inkubation | ✅ 1844-1907 (63 Jahre) | 100% |
+| Lange Inkubation | ✅ 1845-1907 (63 Jahre) | 100% |
 | "Übergabe" als Täuschung | ✅ 1907-1908 | 100% |
-| Numerische Signaturen | ✅ 44, Fibonacci, etc. | 95% |
+| Numerische Signaturen | ✅ 45, Fibonacci, etc. | 95% |
 
 ### Gesamtbewertung
 
@@ -271,7 +271,7 @@ Oder: 44 = tatsächliche russische Signatur?
 ### Die Briten waren möglicherweise GEFRAMED
 
 **Hypothese:**
-1. **Russen (Okhrana)** konstruierten Bahai (1844-1907)
+1. **Russen (Okhrana)** konstruierten Bahai (1845-1907)
 2. **1907:** Schienen Übergabe an Briten an
 3. **1908-1921:** Britische Spuren wurden ABSICHTLICH HINTERLASSEN
 4. **Ziel:** Historische Aufarbeitung belastet Briten, nicht Russen

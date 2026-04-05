@@ -7,7 +7,11 @@
 
 ## Executive Summary
 
-Die Analyse legt nahe, dass das Bahaitum ein zentrales Werkzeug im "Großen Spiel" zwischen dem Britischen Empire und dem Russischen Reich war. ʿAbdul-Bahāʾ fungierte als Schlüsselfigur in diesem geheimdienstlichen Großmachtkonflikt um die Kontrolle über Persien und den Nahen Osten.
+Die Analyse legt nahe, dass das Bahaitum ein zentrales Werkzeug im "Großen Spiel" war - jedoch **nicht als britisch-russische Kooperation**, sondern als **russisch-iranische False-Flag-Operation**, die das British Empire historisch kompromittieren sollte.
+
+**Neue Erkenntnis:** Die Briten waren **NICHT die ursprünglichen Architekten**, sondern wurden **geframed**. Die offensichtlichen "britischen" Spuren (Knight Commander 1920) sind zu amateurhaft für echte MI6-Operationen und entsprechen perfekt **Okhrana-False-Flag-Methoden** (vgl. Protokolle der Weisen von Zion).
+
+ʿAbdul-Bahāʾ fungierte als **Agent einer russisch-iranischen Geheimdienstoperation** - nicht als britischer oder "übergabe" Agent.
 
 ---
 

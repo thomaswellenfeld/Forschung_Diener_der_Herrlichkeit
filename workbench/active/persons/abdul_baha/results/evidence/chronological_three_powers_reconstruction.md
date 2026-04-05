@@ -1,13 +1,15 @@
-# Chronologische Rekonstruktion: Drei-Mächte-Konflikt
-## Zeitleiste der Verdächtigkeit: Briten, Russen, Qajars
+# Chronologische Rekonstruktion: FALSE-FLAG-Operation
+## Zeitleiste der Verdächtigkeit: Russen/Iraner = Architekten, Briten = Geframed
 
-**Status:** 🔴 KRITISCH - Synchronisierte Manipulation
+**Status:** 🔴 KRITISCH - Synchronisierte False-Flag-Manipulation
 
 ---
 
 ## Executive Summary
 
-Diese Chronologie rekonstruiert die verdächtigen Synchronizitäten zwischen den Aktionen ʿAbdul-Bahāʾs (und des Bahaitums) und den geopolitischen Manövern der drei Mächte: Britisches Empire, Russisches Reich, und Qajar-Dynastie (Persien).
+Diese Chronologie rekonstruiert die verdächtigen Synchronizitäten zwischen den Aktionen ʿAbdul-Bahāʾs (und des Bahaitums) und der **russisch-iranischen False-Flag-Operation**, die das British Empire historisch kompromittieren sollte.
+
+**Neue Erkenntnis:** Die Briten waren **NICHT die ursprünglichen Architekten**, sondern wurden **geframed oder kooptiert**. Die offensichtlichen "britischen" Spuren (Knight Commander 1920) sind zu amateurhaft für echte MI6-Operationen.
 
 ---
 

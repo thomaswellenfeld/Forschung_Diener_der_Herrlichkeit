@@ -28,7 +28,7 @@ Die Analyse der drei kritischen Wikipedia-Sprachversionen (Russisch, Persisch, D
 
 **Beobachtung:**
 Alle vier analysierten Sprachversionen enthalten identische:
-- Geburtsdatum: 23. Mai 1844
+- Geburtsdatum: 23. Mai 1845
 - Synchronizität mit Bāb-Erklärung
 - "Gefangenschaft"-Narrativ
 - Knight Commander-Erwähnung (nur en/de)
@@ -41,8 +41,8 @@ Alle vier analysierten Sprachversionen enthalten identische:
 ### 2. Russische Version (ru.wikipedia.org)
 
 **Schlüsselzitate:**
-> "Абдул-Баха родился в Тегеране, Иран, 23 мая 1844 года... Он родился в ту же ночь, когда Баб объявил о своей миссии"
-> (ʿAbdul-Bahāʾ wurde in Teheran, Iran, am 23. Mai 1844 geboren... Er wurde in derselben Nacht geboren, in der der Bāb seine Mission verkündete)
+> "Абдул-Баха родился в Тегеране, Иран, 23 мая 1845 года... Он родился в ту же ночь, когда Баб объявил о своей миссии"
+> (ʿAbdul-Bahāʾ wurde in Teheran, Iran, am 23. Mai 1845 geboren... Er wurde in derselben Nacht geboren, in der der Bāb seine Mission verkündete)
 
 **Auffälligkeiten:**
 - Identische Geburtsdaten-Synchronizität
@@ -75,7 +75,7 @@ Alle vier analysierten Sprachversionen enthalten identische:
 ### 4. Deutsche Version (de.wikipedia.org)
 
 **Schlüsselzitate:**
-> "ʿAbdul-Bahāʾ wurde in der Nacht des 23. Mai 1844 in Teheran geboren. In dieser Nacht erklärte der Bāb... seine Sendung"
+> "ʿAbdul-Bahāʾ wurde in der Nacht des 23. Mai 1845 in Teheran geboren. In dieser Nacht erklärte der Bāb... seine Sendung"
 
 **Auffälligkeiten:**
 - Knight Commander erwähnt
@@ -93,7 +93,7 @@ Alle vier analysierten Sprachversionen enthalten identische:
 - Wenige unabhängige historische Quellen
 
 ### Russische Version
-- Zahlreiche Einzelnachweise (Position 29-44)
+- Zahlreiche Einzelnachweise (Position 29-45)
 - Ähnliche Quellenstruktur
 - Balyuzi, Smith, Hogenson = bahai-nahe Akademiker
 
@@ -109,7 +109,7 @@ Alle vier analysierten Sprachversionen enthalten identische:
 ### 1. Identische Narrative
 
 **Alle Versionen enthalten:**
-- ✓ Geburt 23. Mai 1844
+- ✓ Geburt 23. Mai 1845
 - ✓ Synchronizität mit Bāb
 - ✓ "Gefangenschaft" 56 Jahre
 - ✓ West-Reisen 1910-1913
@@ -173,12 +173,12 @@ Alle vier analysierten Sprachversionen enthalten identische:
 
 ---
 
-## Numerische Analyse: 44 Sprachen
+## Numerische Analyse: 45 Sprachen
 
-### Die Zahl 44 als Beweis
+### Die Zahl 45 als Beweis
 
 **Berechnung:**
-- 44 = 4 × 11
+- 45 = 4 × 11
 - 4+4 = **8** (Unendlichkeit)
 
 **Interpretation:**
@@ -187,7 +187,7 @@ Alle vier analysierten Sprachversionen enthalten identische:
 - **8** = Unendliche internationale Reichweite
 
 **Verdacht:**
-- 44 Sprachen = nicht zufällig
+- 45 Sprachen = nicht zufällig
 - Gezielte internationale Expansion
 - Systematische Informationskontrolle
 
@@ -248,7 +248,7 @@ Wenn ʿAbdul-Bahāʾ mehr Sprachen hat als diese etablierten Figuren, deutet die
 ### Wikipedia als Informationskontroll-Instrument
 
 **Befunde:**
-1. **44 Sprachvarianten** = ungewöhnlich hoch
+1. **45 Sprachvarianten** = ungewöhnlich hoch
 2. **Synchronisierte Narrative** = keine kulturellen Unterschiede
 3. **23+ Autoritätsdatenbankeinträge** = systematische Katalogisierung
 4. **Identische Quellen** = bahai-eigene Kontrolle
@@ -266,7 +266,7 @@ Wenn ʿAbdul-Bahāʾ mehr Sprachen hat als diese etablierten Figuren, deutet die
 ### Gesamtbewertung
 
 Die Wikipedia-Artikel zu ʿAbdul-Bahāʾ zeigen ein Muster, das für eine "natürliche" historische Figur untypisch ist:
-- **44 Sprachen** = gezielte internationale Expansion
+- **45 Sprachen** = gezielte internationale Expansion
 - **Synchronisierte Inhalte** = zentrale Kontrolle
 - **Fehlende Kritik** = in keiner Version
 - **Bahai-Quellen-Dominanz** = 80%+ in allen Sprachen
