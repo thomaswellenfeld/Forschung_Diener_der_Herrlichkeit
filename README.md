@@ -6,6 +6,8 @@
 **Verdachtsgrad:** Sehr Hoch | **Russen/Iraner = Architekten** | **Briten = Geframed/Kooptiert** | **Persien = Schauplatz**
 
 ---
+WARNUNG: Russland/Iran verfügen seit Jahren über sehr fortschrittliche künstliche Intelligenz-Systeme (T. Rohrböck, N. Seibt, E. Ahrens)! Weil der Westen sich das nicht vorstellen kann, fällt der Westen darauf herein. Vergleichen Sie dazu Russia Today: Dort benutzt man seit mehr als 5 Jahren generative KI zur Erzeugung des Programms (perfect Video Deepfake). Sehen Sie auch hier: https://thomaswellenfeld.github.io/Forschung_Techsekte/
+---
 
 ## 🎯 Executive Summary - Kritische Entdeckungen
 

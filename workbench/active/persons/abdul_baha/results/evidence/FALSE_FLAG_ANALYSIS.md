@@ -29,7 +29,7 @@ Der Benutzer macht einen ausgezeichneten Punkt: Die "zu offensichtlichen" britis
 | **Knight Commander 1920** | 🔴 EXTREM | Direkte königliche Verbindung |
 | **Lake Mohonk 1912** | 🔴 HOCH | Präsidiale Friedenskonferenz |
 | **West-Reisen 1910-13** | 🟠 MITTEL | Öffentliche Propaganda |
-| **44 Wikipedia-Sprachen** | 🔴 EXTREM | Systematische PR |
+| **45 Wikipedia-Sprachen** | 🔴 EXTREM | Systematische PR |
 
 **Anomalie:** Diese Beweise sind **zu perfekt**, **zu dokumentiert**, **zu auffällig**.
 
